@@ -1,0 +1,6 @@
+mysite/*.pyc
+mysite/__pycache__
+myenv
+mysite/db.sqlite3
+mysite/.DS_Store
+
